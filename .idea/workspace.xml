@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="890b6073-37fc-4dbf-8568-73952edeadd7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\Administrator\.m2\repository" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="C:\Users\Administrator\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WSFkEST1yJCisQl9Gbh8FB1Gz2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.changyue.redisdemo.utils" />
+    </key>
+    <key name="OPEN_URL_DIALOG">
+      <recent name="https://github.com/lenve/VBlog.git" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="RedisUtilsTest.expire" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="redisdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changyue.redisdemo.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.changyue.redisdemo.utils" />
+      <option name="MAIN_CLASS_NAME" value="com.changyue.redisdemo.utils.RedisUtilsTest" />
+      <option name="METHOD_NAME" value="expire" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisUtilsTest.get" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="redisdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changyue.redisdemo.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.changyue.redisdemo.utils" />
+      <option name="MAIN_CLASS_NAME" value="com.changyue.redisdemo.utils.RedisUtilsTest" />
+      <option name="METHOD_NAME" value="get" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisUtilsTest.getExpire" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="redisdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changyue.redisdemo.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.changyue.redisdemo.utils" />
+      <option name="MAIN_CLASS_NAME" value="com.changyue.redisdemo.utils.RedisUtilsTest" />
+      <option name="METHOD_NAME" value="getExpire" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisUtilsTest.hasKey" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="redisdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changyue.redisdemo.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.changyue.redisdemo.utils" />
+      <option name="MAIN_CLASS_NAME" value="com.changyue.redisdemo.utils.RedisUtilsTest" />
+      <option name="METHOD_NAME" value="hasKey" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisUtilsTest.set" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="redisdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changyue.redisdemo.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.changyue.redisdemo.utils" />
+      <option name="MAIN_CLASS_NAME" value="com.changyue.redisdemo.utils.RedisUtilsTest" />
+      <option name="METHOD_NAME" value="set" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisdemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="redisdemo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.changyue.redisdemo.RedisdemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RedisUtilsTest.hasKey" />
+        <item itemvalue="JUnit.RedisUtilsTest.getExpire" />
+        <item itemvalue="JUnit.RedisUtilsTest.get" />
+        <item itemvalue="JUnit.RedisUtilsTest.set" />
+        <item itemvalue="JUnit.RedisUtilsTest.expire" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="890b6073-37fc-4dbf-8568-73952edeadd7" name="Default Changelist" comment="" />
+      <created>1579135229798</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579135229798</updated>
+      <workItem from="1579135233828" duration="13066000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Deployment" timestamp="1579140273557">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1579140273557" />
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1579139964720">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1579139964720" />
+    <state x="690" y="295" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1579139993424">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="295" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579139993424" />
+    <state x="561" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1579146289364">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="561" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579146289364" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579146272589">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579146272589" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1579136268640">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1579136268640" />
+    <state width="1921" height="265" key="GridCell.Tab.0.bottom" timestamp="1579146266760">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="265" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579146266760" />
+    <state width="1921" height="265" key="GridCell.Tab.0.center" timestamp="1579146266760">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="265" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579146266760" />
+    <state width="1921" height="265" key="GridCell.Tab.0.left" timestamp="1579146266759">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="265" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579146266759" />
+    <state width="1921" height="265" key="GridCell.Tab.0.right" timestamp="1579146266760">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="265" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579146266760" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1579149465421">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579149465421" />
+    <state x="681" y="261" width="582" height="524" key="StructurePopup" timestamp="1579144397300">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="681" y="261" width="582" height="524" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1579144397300" />
+    <state x="562" y="227" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1579144797392">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="562" y="227" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579144797392" />
+  </component>
+</project>
